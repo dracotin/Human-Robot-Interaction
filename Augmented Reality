@@ -1,0 +1,10 @@
+With all robots and humans having their predefined trajectories they need to follow, augmented reality based wearable devices will be worn by human workers to provide him with context sensitive information. The following features will be developed in the SafeLog system:
+
+    1.Human guidance to the destination planned by the planning and scheduling module.
+    2.Alarming about close moving objects and their targets.
+    3.Context sensitive information management and interaction with human for various tasks (picking assistance, maintenance assistance).
+
+To ensure high level of interaction between AR and human the system will focus on solving: 
+a) high precision 6DoF head localization; 
+b) human intention recognition; 
+c) human awareness of other robots.
