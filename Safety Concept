@@ -1,0 +1,7 @@
+The SafeLog project proposes to develop a complete new integrated safety concept, which will fundamentally change the usage of mobile robots in an environment where humans and robots work closely together.
+
+The concept consists of three levels of safety — Level A (highest priority), Level B and Level C (lowest priority). The safety levels have different responsibilities:
+
+    Safety Level A: Safety level A draws a virtual circle around the human operator acting as a simulated electromagnetic pulse (EMP). No movements of mobile robots are allowed within this circle. Even if the human is moving around, all mobile robots will stop in a safe distance to the human. This level will ensure the intrinsic safety of the overall system.
+    Safety Level B: In safety level B several options are available. First the human operator will be informed about approaching robots. In Safety Level B such approaching robots do not yet impose a threat. If a robot is equipped with corresponding safety infrastructure, its speed can be reduced, to avoid potential upcoming dangerous situations. Promising candidates for such an approach are Automated Guided Vehicles (AGV). The speed of the AGV is limited until the distance allows safe use of the full speed.
+    Safety Level C: The Fleet Management System (FMS) plans the paths of humans and mobile robots, so that close encounters between those entities are generally avoided. If a human deviates from a pre-planned path, the routes for the mobile robots are automatically re-planned.
